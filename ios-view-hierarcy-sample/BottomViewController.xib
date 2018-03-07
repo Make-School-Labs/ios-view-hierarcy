@@ -23,9 +23,7 @@
                 <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qbL-mF-gOB">
                     <rect key="frame" x="0.0" y="623" width="375" height="44"/>
                     <items>
-                        <barButtonItem id="Eit-Il-eDX"/>
                         <barButtonItem title="View Listings" id="EU9-tr-9pZ"/>
-                        <barButtonItem style="plain" systemItem="flexibleSpace" id="ZMe-RY-M1m"/>
                         <barButtonItem title="Switch To Customer" id="j4D-E7-wlD">
                             <connections>
                                 <action selector="switchToCustomerPressed:" destination="-1" id="Dny-eW-hMh"/>
